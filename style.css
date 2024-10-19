@@ -119,7 +119,7 @@ button {
     cursor: pointer;
 }
 .self-img{
-    border-radius: 50%;
+    border-radius: 10%;
 }
 
 img {
